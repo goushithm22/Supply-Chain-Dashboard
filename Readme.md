@@ -3,7 +3,7 @@
 An end-to-end data analytics project simulating a real-world supply chain,
 built to demonstrate SQL, Python, and data visualisation skills.
 
-**[Live Dashboard → (https://goushithm22.github.io/supply-chain-dashboard/dashboard/)]**
+**Live Dashboard →  https://goushithm22.github.io/supply-chain-dashboard/dashboard/ **
 
 ---
 
