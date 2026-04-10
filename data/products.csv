@@ -1,0 +1,11 @@
+ProductId,ProductName,category,SupplierId,UnitCost,UnitPrice
+PRD001,Wireless Earbuds,Electronics,SUP002,450,1200
+PRD002,Running Shoes,Apparel,SUP001,900,2800
+PRD003,Coffee Maker,Home & Kitchen,SUP004,1200,3500
+PRD004,Yoga Mat,Sports,SUP001,250,800
+PRD005,Sunscreen SPF50,Beauty,SUP003,180,550
+PRD006,Bluetooth Speaker,Electronics,SUP002,600,1800
+PRD007,Denim Jacket,Apparel,SUP005,1100,3200
+PRD008,Air Fryer,Home & Kitchen,SUP004,2000,5500
+PRD009,Tennis Racket,Sports,SUP003,700,2200
+PRD010,Face Moisturizer,Beauty,SUP005,300,950
