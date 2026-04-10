@@ -41,27 +41,29 @@ performance, and supplier efficiency.
 
 ## Project Structure
 
-SupplyChainDashboard/
+```
+SupplyChainDashBoard/
 │
-├── data/                   # Generated CSV files + SQLite database
-│   ├── orders.csv
-│   ├── products.csv
-│   ├── suppliers.csv
-│   └── shipments.csv
+├── data/
+│   ├── orders.csv          # 500 orders (fact table)
+│   ├── products.csv        # 10 products (dimension)
+│   ├── suppliers.csv       # 5 suppliers (dimension)
+│   └── shipments.csv       # 500 shipment records
 │
-├── sql/                    # SQL queries + runner script
+├── sql/
 │   ├── analysis_queries.sql
 │   └── runQueries.py
 │
-├── analysis/               # Python scripts
-│   ├── generateData.py     # Synthetic data generation
-│   └── eda.py              # Exploratory data analysis + charts
+├── analysis/
+│   ├── generateData.py
+│   └── eda.py
 │
-├── dashboard/              # Interactive web dashboard
+├── dashboard/
 │   ├── index.html
-│   └── charts/             # PNG charts from EDA
+│   └── charts/
 │
 └── README.md
+```
 
 ---
 
